@@ -14,7 +14,7 @@ sensacao_termica = temperatura.get('feels_like')
 
 
 
-# Este if server para verificar se a sensação termica tiver diferença maior que 2 mostrar a sensação ao inves da temperatura verdeadeira
+# Este if serve para verificar se a sensação termica tiver diferença maior que 2 mostrar a sensação ao inves da temperatura verdeadeira
 if sensacao_termica > temperatura_atual + 2 :
     print(sensacao_termica)
 
