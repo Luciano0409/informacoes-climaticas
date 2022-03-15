@@ -1,0 +1,20 @@
+[
+   {
+      "key": "DT",
+      "latitude": -16.706444,
+      "longitude": -49.272682,
+      "name": "Dataunique - GO"
+   },
+   {
+      "key": "CE",
+      "latitude": -16.651094,
+      "longitude": -49.148552,
+      "name": "Cegal - GO"
+   },
+   {
+      "key": "CA",
+      "latitude": -16.637783,
+      "longitude": -49.13599,
+      "name": "Casa - GO"
+   }
+]
