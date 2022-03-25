@@ -1,17 +1,26 @@
 [
    {
-      "key": "DT",
-      "latitude": -16.706444,
-      "longitude": -49.272682
+      "key":"ISTMO TECNOLOGIA LTDA",
+      "latitude":-23.5573889,
+      "longitude":-46.6648942,
+      "name":"NOME-DO-HOST"
    },
    {
-      "key": "CE",
-      "latitude": -16.651094,
-      "longitude": -49.148552
+      "key":"TCD PROCESSAMENTO DE DADOS LTDA",
+      "latitude":-16.6855132,
+      "longitude":-49.2619262,
+      "name":"NOME-DO-HOST"
    },
    {
-      "key": "CA",
-      "latitude": -16.637783,
-      "longitude": -49.13599
+      "key":"ACTUAR LTDA",
+      "latitude":-16.7091245,
+      "longitude":-49.2888233,
+      "name":"NOME-DO-HOST"
+   },
+   {
+      "key":"FEDERACAO ESPIRITA DO ESTADO DE GOIAS - FEEGO",
+      "latitude":-16.68837,
+      "longitude":-49.2673811,
+      "name":"NOME-DO-HOST"
    }
 ]
