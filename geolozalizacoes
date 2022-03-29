@@ -1,1 +1,26 @@
-[{'key': 'WorldMap - Dataunique', 'latitude': -23.5573889, 'longitude': -46.6648942, 'name': 'ISTMO TECNOLOGIA LTDA'}, {'key': 'WorldMap - Colegio Marista', 'latitude': -16.6998893, 'longitude': -49.2625052, 'name': 'ASSOCIACAO BRASILEIRA DE EDUCACAO E CULTURA -ABEC'}, {'key': 'WorldMap - Universidade Federal do Reconcavo da Bahia - Ufrb', 'latitude': -12.6722649, 'longitude': -39.1053665, 'name': 'UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA - UFRB'}, {'key': 'WorldMap - Universidade Federal do Ceara', 'latitude': -3.741486, 'longitude': -38.538855, 'name': 'UNIVERSIDADE FEDERAL DO CEARA'}]
+[
+   {
+      "key":"WorldMap - Dataunique",
+      "latitude":-23.5573889,
+      "longitude":-46.6648942,
+      "name":"ISTMO TECNOLOGIA LTDA"
+   },
+   {
+      "key":"WorldMap - Colegio Marista",
+      "latitude":-16.6998893,
+      "longitude":-49.2625052,
+      "name":"ASSOCIACAO BRASILEIRA DE EDUCACAO E CULTURA -ABEC"
+   },
+   {
+      "key":"WorldMap - Universidade Federal do Reconcavo da Bahia - Ufrb",
+      "latitude":-12.6722649,
+      "longitude":-39.1053665,
+      "name":"UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA - UFRB"
+   },
+   {
+      "key":"WorldMap - Universidade Federal do Ceara",
+      "latitude":-3.741486,
+      "longitude":-38.538855,
+      "name":"UNIVERSIDADE FEDERAL DO CEARA"
+   }
+]
