@@ -22,5 +22,47 @@
       "latitude":-3.741486,
       "longitude":-38.538855,
       "name":"UNIVERSIDADE FEDERAL DO CEARA"
+   },
+   {
+      "key":"WorldMap - Lojinha com Carinho Papelaria e Software House",
+      "latitude":-21.1898849,
+      "longitude":-48.1550642,
+      "name":"D.S. GONCALVES SOFTWARE HOUSE E PAPELARIA"
+   },
+   {
+      "key":"WorldMap - Ets Software House Eireli",
+      "latitude":-29.9241866,
+      "longitude":-51.0897008,
+      "name":"ETS SOFTWARE HOUSE EIRELI"
+   },
+   {
+      "key":"WorldMap - Ldae Software House Eireli",
+      "latitude":-30.0036186,
+      "longitude":-51.1503963,
+      "name":"LDAE SOFTWARE HOUSE EIRELI"
+   },
+   {
+      "key":"WorldMap - Contteudo Software House LTDA",
+      "latitude":-25.52027315,
+      "longitude":-48.506655731591636,
+      "name":"CONTTEUDO SOFTWARE HOUSE LTDA"
+   },
+   {
+      "key":"WorldMap - Jones Software House LTDA",
+      "latitude":-23.6276252,
+      "longitude":-46.586882,
+      "name":"JONES SOFTWARE HOUSE LTDA"
+   },
+   {
+      "key":"WorldMap - 44343216000125",
+      "latitude":-15.015662,
+      "longitude":-53.931272,
+      "name":"FELIPE PAZ SOFTWARE HOUSE"
+   },
+   {
+      "key":"WorldMap - Io Ribeiro Junior Software",
+      "latitude":-16.7237884,
+      "longitude":-43.8413165,
+      "name":"I.O.RIBEIRO JUNIOR SOFTWARE"
    }
 ]
